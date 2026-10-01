@@ -101,8 +101,8 @@ This repository contains the custom scripts written for the manuscript, but the 
 
 ### Previously published tools used in the analysis
 
-- EndoGenius: [lingjunli-research/EndoGenius](https://github.com/lingjunli-research/EndoGenius)
-- MotifQuest: [lingjunli-research/MotifQuest](https://github.com/lingjunli-research/MotifQuest)
+- EndoGenius: [LingjunLiResearch/EndoGenius](https://github.com/LingjunLiResearch/EndoGenius)
+- MotifQuest: [LingjunLiResearch/MotifQuest](https://github.com/LingjunLiResearch/MotifQuest)
 
 EndoGenius and MotifQuest are not introduced here as new software in this repository; they are separate previously published tools used during the MS-based validation and motif-oriented analysis stages. Please cite those repositories and their associated publications as appropriate when reusing that portion of the workflow.
 
